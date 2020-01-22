@@ -1,3 +1,0 @@
-- Ask Dave for some more info regarding DecodeRequest structure
-- Create a vagrantfile so they can run the tests in a clean environment(npm installs and packages have a tendency to pollute the filesystem and path)
-- Clarify specific criteria for Proximus acceptance of a new decoding file e.g. what not to change, how many tests to write, no changing of the util file, ...
