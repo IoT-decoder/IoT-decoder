@@ -1,0 +1,22 @@
+{
+  "name": "sensor_payload_decoding_starter",
+  "version": "0.1.0",
+  "description": "Sensor payload decoding starter for vendors",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "maarten.westelinck.ext@proximus.com",
+  "license": "Proximus license",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/jest": "^22.2.3",
+    "jest": "^21.2.1",
+    "ts-jest": "^21.2.4",
+    "typescript": "^2.6.2",
+    "moment-timezone": "^0.5.17",
+    "moment": "^2.22.2",
+    "@nestjs/common": "^4.5.9",
+    "@nestjs/core": "^4.5.9",
+    "reflect-metadata": "^0.1.10"
+  }
+}
