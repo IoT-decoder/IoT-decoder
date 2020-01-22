@@ -12,7 +12,7 @@ The MDK enables technical users to quickly write decoding for new sensors.
 Using the template ( decoder.template.ts ) and the conversion utility (util.ts) you can build a decoder to validate behaviour of the sensor using the testing suite. 
 This testing suite documents the behaviour of the sensor and is also an important quality step when promoting this decoding template to production. 
 
-Once the decoding template has reached an acceptable level of detail / quality, it will be made available on MT.  This is done via a manual validation and deployment process as this deliverable needs to meet the quality assurance requirements (naming conventions, correctness of code, performance validation, ...).  We will adapt the decoding template if its not meeting those requirements.
+**Once the decoding template has reached an acceptable level of detail / quality, it will be made available on MT.  This is done via a manual validation and deployment process as this deliverable needs to meet the quality assurance requirements (naming conventions, correctness of code, performance validation, ...).  We will adapt the decoding template if it's not meeting those requirements.**
 
 
 ## Adding a decoder
