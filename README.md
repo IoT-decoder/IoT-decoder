@@ -7,9 +7,9 @@ It's become quite easy to deploy / install sensors physically, but getting the s
 
 To swiftly validate sensors from a functional perspective the sensor output needs to be human readable.  This MDK enables developers to quickly write decoding for new sensors.
 
-Using the template (decoder.template.ts) and the conversion utility (util.ts) you can build a decoder to validate behaviour of the sensor using the testing suite.  There is an example available in EXAMPLE_PEOPLECOUNTER_V1.ts.  This decoding kit documents the behaviour of the sensor and is also an important quality step when promoting your decoding template to production. 
+Using the template (decoder.template.ts) and the conversion utility (util.ts) you can build a decoder to validate behaviour of the sensor using the testing suite.  There is an example available in EXAMPLE_PEOPLECOUNTER_V1.ts.  This decoding kit documents the behaviour of the sensor and is also an important quality step when promoting your decoding file to production.
 
-**Once the decoding template has reached an acceptable level of detail / quality, it will be made available on MT.  This is done via a manual validation and deployment process as this deliverable needs to meet the quality assurance requirements (naming conventions, correctness of code, performance validation, ...).  We will adapt the decoding template if it's not meeting those requirements.**
+**Only when the decoding file has reached an acceptable level of detail and quality, it will be made available on MT. This is done via a manual validation and deployment process. The decoding file needs to meet our quality assurance requirements (naming conventions, correctness of code, performance validation, ...). We will adapt the decoding file if it's not meeting those quality assurance requirements.  We need minimum 2 weeks notice to plan this work in our agenda.**
 
 
 ## Adding a decoder
