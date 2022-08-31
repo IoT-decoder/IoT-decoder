@@ -13,7 +13,7 @@
     "jest": "^21.2.1",
     "ts-jest": "^21.2.4",
     "typescript": "^2.6.2",
-    "moment-timezone": "^0.5.17",
+    "moment-timezone": "^0.5.35",
     "moment": "^2.22.2",
     "@nestjs/common": "^4.5.9",
     "@nestjs/core": "^4.5.9",
