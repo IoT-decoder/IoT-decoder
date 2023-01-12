@@ -15,7 +15,7 @@
     "typescript": "^2.6.2",
     "moment-timezone": "^0.5.17",
     "moment": "^2.22.2",
-    "@nestjs/common": "^4.5.9",
+    "@nestjs/common": "^9.2.1",
     "@nestjs/core": "^4.5.9",
     "reflect-metadata": "^0.1.10"
   }
